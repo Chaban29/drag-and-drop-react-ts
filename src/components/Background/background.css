@@ -1,0 +1,7 @@
+
+.background__box {
+  position: absolute;
+  width: 250px;
+  height: 250px;
+  background: rgba(200, 200, 0, 0.2);
+}
