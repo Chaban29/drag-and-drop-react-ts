@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Create Custom Drag&Drop ;)
+
+![image](https://github.com/Chaban29/drag-and-drop-react-ts/assets/137433410/787a8b90-23cd-4a8f-a0cf-7166f35e1349)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
